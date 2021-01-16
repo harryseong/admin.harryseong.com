@@ -10,6 +10,11 @@
       "StackName": "amplify-harryseongadmin-dev-164431",
       "StackId": "arn:aws:cloudformation:us-east-1:552566233886:stack/amplify-harryseongadmin-dev-164431/3d268900-5783-11eb-a40f-0ed5ff3f81ab",
       "AmplifyAppId": "d3p2ukeku8iry2"
+    },
+    "categories": {
+      "auth": {
+        "harryseongadminc414ddc8": {}
+      }
     }
   }
 }
